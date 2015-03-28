@@ -2,8 +2,10 @@ package actor;
 
 /**
  *
- * @author Nathan Dias <nathanxyzdias@gmail.com>
+ * @author Nathan Dias 
  */
 public class Player {
+    
+    
     
 }
