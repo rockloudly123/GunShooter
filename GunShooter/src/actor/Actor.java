@@ -21,5 +21,8 @@ public abstract class Actor {
      */
     public abstract Image getImage();
     
-
+    public abstract void update();
+    
+    
+    
 }
