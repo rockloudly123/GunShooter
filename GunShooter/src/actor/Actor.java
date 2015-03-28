@@ -1,5 +1,6 @@
 package actor;
 
+import java.awt.Image;
 import java.awt.Rectangle;
 
 /**
@@ -14,5 +15,7 @@ public abstract class Actor {
     
     
     public abstract Rectangle getRectangle();
+    
+    public abstract Image getImage();
     
 }
